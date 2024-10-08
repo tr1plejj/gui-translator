@@ -1,7 +1,7 @@
 import ui
 import sys
 import googletrans
-from PyQt5 import QtWidgets, QtCore, QtGui
+from PyQt5 import QtWidgets
 from PyQt5.QtWidgets import QMessageBox
 
 langs = {
